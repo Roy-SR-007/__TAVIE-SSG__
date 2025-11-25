@@ -1,10 +1,10 @@
-# TAVIE-SSG: A Generalized Tangent Approximation Based Variational Inference Framework for Strongly Super-Gaussian Likelihoods
+# TAVIE-SSG: A Generalized Tangent Approximation based Variational Inference Framework for Strongly Super-Gaussian Likelihoods
 
 <p align="center">
   <img src="assets/TAVIE_animated_logo.gif" alt="TAVIE_logo" width="650"/>
 </p>
 
-This repository holds the source code and implementation of **TAVIE-SSG** proposed in *A Generalized Tangent Approximation Based Variational Inference Framework for Strongly Super‑Gaussian Likelihoods*.
+This repository holds the source code and implementation of **TAVIE-SSG** proposed in *A Generalized Tangent Approximation based Variational Inference Framework for Strongly Super‑Gaussian Likelihoods*.
 
 ---
 
